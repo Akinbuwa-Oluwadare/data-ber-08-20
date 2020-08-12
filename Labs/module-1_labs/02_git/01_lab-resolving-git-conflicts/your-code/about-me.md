@@ -5,7 +5,6 @@
     * Where are you from? Nigeria
     * What do you do? I'm a student
     * Do you have previous experience with technology/data? Not at all
-
     # Why am I here? I am here to acquire all the basics and advanced knowledge about Data Analytics and obviously how to use it in solving real life problems.
 
     * What has brought you to Ironhack? I want to learn about how data works and how to analyze them.
